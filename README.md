@@ -12,12 +12,13 @@ A simple Twitter like Social Media Web Application
 - Editing posts Asyncrhonously
 - Liking and unliking posts Asyncrhonously
 - Following Users
+- User Profile Page
 
 ---
 
 # Live Demo
-
-[![Live Demo](https://prnt.sc/AuZbRfWEsg-0)](https://snapperr.herokuapp.com/)
+> Click The Picture :)
+[![Live Demo](https://lh5.googleusercontent.com/jCiDvj3nV1c2ef199zyNdvdTKb6A-vY1ksFiDNaVyYou4vAes4_GPgQN16_uUw0jRr6Jy_Q5Tntk_9r8RO5N=w1920-h919)](https://snapperr.herokuapp.com/)
 
 ---
 

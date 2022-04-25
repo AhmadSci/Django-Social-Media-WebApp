@@ -18,7 +18,7 @@ A simple Twitter like Social Media Web Application
 
 # Live Demo
 > Click The Picture :)
-[![Live Demo](https://lh5.googleusercontent.com/jCiDvj3nV1c2ef199zyNdvdTKb6A-vY1ksFiDNaVyYou4vAes4_GPgQN16_uUw0jRr6Jy_Q5Tntk_9r8RO5N=w1920-h919)](https://snapperr.herokuapp.com/)
+[![Live Demo](https://lh6.googleusercontent.com/Xy9u-xoi6dNACW7ot0ImWXc8GgJgtOc_GB6NhsmMBVUuLOiLyIxjrAxomfABVGBUcjPre515Utn1gnUaKvAu=w1920-h919)](https://snapperr.herokuapp.com/)
 
 ---
 
